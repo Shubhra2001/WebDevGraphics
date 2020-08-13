@@ -1,0 +1,183 @@
+body {
+    font-family: 'Itim', cursive;
+}
+
+ul li {
+    list-style-type: none;
+    padding: 10px;
+}
+
+div.container-fluid.one img {
+	width: 100%;
+}
+
+div.container-fluid.two {
+	background: url("https://files.123freevectors.com/wp-content/original/132130-black-green-and-yellow-modern-geometric-shapes-background-vector-art.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 30px;
+	text-align: center;
+	font-family: 'Patrick Hand', cursive;
+}
+
+div.container-fluid.three {
+	background: url("https://www.dream-wallpaper.com/free-wallpaper/art-wallpaper/black-background-3-wallpaper/1680x1050/free-wallpaper-16.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 30px;
+	text-align: center;
+	font-family: 'Lemonada', cursive;
+}
+
+div.container-fluid.four {
+	background: url("https://cdn.wallpapersafari.com/45/79/9qNB2U.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 30px;
+	text-align: center;
+	font-family: 'Fondamento', cursive;
+}
+
+div.container-fluid.five {
+	background: url("https://files.123freevectors.com/wp-content/original/119526-abstract-pink-background-graphic-design.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 30px;
+	text-align: center;
+	font-family: 'Cuprum', sans-serif;
+}
+
+div.container-fluid.six {
+	background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSo91dEOaWP90M2o1OId0cnvTWD3oAt0P9bbTkxiIyKm3rskOWxDVS57NtGipDSFaF3T93CUHpZ3eTaUCNAELTtpA&usqp=CAU&ec=45690271");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 30px;
+	text-align: center;
+	font-family: 'Cookie', cursive;
+}
+
+div.container-fluid.seven {
+	background: url("https://static.vecteezy.com/system/resources/previews/000/544/173/non_2x/white-and-grey-abstract-background-with-line-dot-network-graphic-design-vector-for-presentation-background-and-abstract-concept.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 30px;
+	text-align: center;
+	font-family: 'Caudex', serif;
+}
+
+div.container-fluid.eight {
+    padding: 10px;
+    padding-top: 10px;
+    background: url("https://www.i6net.com/wp-content/uploads/2015/06/background-header-technology.jpg");
+    color: white;
+    text-align: center;
+    font-family: 'Bad Script', cursive;
+}
+
+
+h3.headone {
+	font-size: 45px;
+	padding: 10px;
+	font-weight:600;
+}
+
+h3.headtwo {
+	font-size: 45px;
+	padding: 10px;
+	color: white;
+}
+
+h4 {
+	padding: 15px;
+}
+
+div.col-sm-2 {
+	padding: 10px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+p.one {
+	color: white;
+}
+
+p.two {
+	font-size: 20px;
+}
+
+i.fas.fa-phone-square-alt {
+	padding: 5px;
+}
+
+#mainNavbar {
+    font-size: 1.0rem;
+    font-weight: 100;   
+    /*background-color: pink;*/ 
+}
+
+#mainNavbar .nav-link {
+    color: black;
+    font-family: 'Kelly Slab', cursive;
+    padding: 15px;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #EA1C2C;
+}
+
+#mainNavbar .navbar-brand {
+    color: #EA1C2C;
+    font-size: 3.5rem;
+    font-family: 'Dancing Script', cursive;
+    padding-right: 10px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-menu {display: block;}
+
+button.navbar-toggler {
+	background-color: black;
+}
+
+.mwl {
+font-family: 'Merienda', cursive;
+}
+
+.ks {
+font-family: 'Oregano', cursive;
+font-size:18px;
+}
+
+.ks a{
+text-transform: none !important;
+color: red;
+font-size: 15px;
+}
+
+span.end2 {
+	float: right;
+	padding-right: 50px;
+	font-size: 13px;
+}
+
+span#endname {
+	color: red;
+}
+
+span.end1 {
+	font-family: 'Roboto Slab', serif;
+	padding-left: 15px;
+	font-size: 13px;
+}
